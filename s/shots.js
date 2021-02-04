@@ -43,7 +43,7 @@ function showErrorDesc(errorText = "This image is not exists :C")
 function getImageURL(imageName)
 {
   let URLDirect = "https://getfile.dokpub.com/yandex/get/";
-  let URLPublicFolder = "https://yadi.sk/d/kfF2S0r0W3zFKw/";
+  let URLPublicFolder = "https://yadi.sk/d/0OsUpPcWI21Qeg/";
   let combinedURL = URLDirect.concat(URLPublicFolder, imageName);
   return combinedURL;
 }
