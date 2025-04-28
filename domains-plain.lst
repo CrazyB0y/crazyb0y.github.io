@@ -151,9 +151,9 @@ device.auth.xboxlive.com
 digicert.com
 #Есть стойкое ощущение что это гонит трафик к закачкам через тунель, а этого нам не надо
 #dlassets-ssl.xboxlive.com
+#images-eds-ssl.xboxlive.com
 gamepass.com
 gfx.ms
-images-eds-ssl.xboxlive.com
 login.live.com
 mgt.xboxlive.com
 microsoftonline.com
