@@ -149,7 +149,8 @@ accounts.xboxlive.com
 cp.microsoft.com
 device.auth.xboxlive.com
 digicert.com
-dlassets-ssl.xboxlive.com
+#Есть стойкое ощущение что это гонит трафик к закачкам через тунель, а этого нам не надо
+#dlassets-ssl.xboxlive.com
 gamepass.com
 gfx.ms
 images-eds-ssl.xboxlive.com
