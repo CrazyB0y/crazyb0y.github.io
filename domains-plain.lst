@@ -150,7 +150,7 @@ cp.microsoft.com
 device.auth.xboxlive.com
 digicert.com
 #Есть стойкое ощущение что это гонит трафик к закачкам через тунель, а этого нам не надо
-#dlassets-ssl.xboxlive.com
+dlassets-ssl.xboxlive.com
 images-eds-ssl.xboxlive.com
 gamepass.com
 gfx.ms
