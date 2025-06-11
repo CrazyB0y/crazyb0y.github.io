@@ -128,7 +128,7 @@ discordsays.com
 #
 #Плеймаркет
 #
-play.google.com
+#play.google.com
 #
 #Для проверки адреса VPN
 #
@@ -151,7 +151,7 @@ device.auth.xboxlive.com
 digicert.com
 #Есть стойкое ощущение что это гонит трафик к закачкам через тунель, а этого нам не надо
 #dlassets-ssl.xboxlive.com
-#images-eds-ssl.xboxlive.com
+images-eds-ssl.xboxlive.com
 gamepass.com
 gfx.ms
 login.live.com
